@@ -1,5 +1,5 @@
 cask "tick" do
-  version "0.7.1"
+  version "1.0.0"
   sha256 :no_check
 
   url "https://github.com/DeepanshuMishraa/tick/releases/download/v#{version}/tick.dmg"
