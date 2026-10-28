@@ -1,6 +1,6 @@
 cask "tick" do
-  version "1.2.1"
-  sha256 "05730aa20d86975ef027aa3be14f13951c20d50b3dfca260a568972e045f0552"
+  version "1.2.2"
+  sha256 "378e57ba5f3a21824ac644b2b3dbba292acd54be14431eacebff3fdac905d241"
 
   url "https://github.com/DeepanshuMishraa/tick/releases/download/v#{version}/tick.dmg"
   name "Tick"
