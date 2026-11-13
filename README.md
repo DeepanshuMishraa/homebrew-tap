@@ -1,7 +1,8 @@
 # homebrew-tap
 
 ```bash
-brew install --cask deepanshumishraa/tap/tick
+brew install deepanshumishraa/tap/leaf          # leaf, the terminal reader and diff reviewer
+brew install --cask deepanshumishraa/tap/tick   # Tick
 ```
 
-`Casks/tick.rb` is bumped automatically by the release workflow in [DeepanshuMishraa/tick](https://github.com/DeepanshuMishraa/tick).
+`Formula/leaf.rb` and `Casks/tick.rb` are bumped automatically by the release workflows in [DeepanshuMishraa/leaf](https://github.com/DeepanshuMishraa/leaf) and [DeepanshuMishraa/tick](https://github.com/DeepanshuMishraa/tick).
