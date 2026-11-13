@@ -1,7 +1,6 @@
 class Leaf < Formula
   desc "Read PDFs, markdown files and web articles in the terminal, and review diffs"
   homepage "https://leaf.dipxsy.app"
-  version "0.12.1"
   license "MIT"
 
   livecheck do
