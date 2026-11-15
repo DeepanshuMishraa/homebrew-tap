@@ -10,12 +10,12 @@ class Leaf < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/DeepanshuMishraa/leaf/releases/download/v0.15.2/leaf-aarch64-apple-darwin.tar.gz"
-      sha256 "df11384025b254fc270ca31348946bda1c5daf220a426dce0e3136c1d149ee2e"
+      url "https://github.com/DeepanshuMishraa/leaf/releases/download/v0.16.0/leaf-aarch64-apple-darwin.tar.gz"
+      sha256 "1fbbc5fdaf3d44c996b0a07120f6d8203a5e42e88295c93a42f5b8dea0563636"
     end
     on_intel do
-      url "https://github.com/DeepanshuMishraa/leaf/releases/download/v0.15.2/leaf-x86_64-apple-darwin.tar.gz"
-      sha256 "2036a8c46d188f4548113d33d94b531c389f0d5912951707a6a27b748bddfac8"
+      url "https://github.com/DeepanshuMishraa/leaf/releases/download/v0.16.0/leaf-x86_64-apple-darwin.tar.gz"
+      sha256 "5f13cf1f142325cbcf6b342670366424532969866082cbdd8a2b3db617dfaa6d"
     end
   end
 
@@ -23,12 +23,12 @@ class Leaf < Formula
     depends_on "alsa-lib"
 
     on_arm do
-      url "https://github.com/DeepanshuMishraa/leaf/releases/download/v0.15.2/leaf-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "e8c68dd4f54fea903b9728e06bcad24c33b93cec3c3c2d637be267e5eb72fd55"
+      url "https://github.com/DeepanshuMishraa/leaf/releases/download/v0.16.0/leaf-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "e80300fd3aa88b370cf674df2f67787be109cb8a7ae230a8c7418cb2a4bbc869"
     end
     on_intel do
-      url "https://github.com/DeepanshuMishraa/leaf/releases/download/v0.15.2/leaf-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "2579d745e1ed2c79f6199fc6329e07bc5e1d565e71652741a3a84714356ad778"
+      url "https://github.com/DeepanshuMishraa/leaf/releases/download/v0.16.0/leaf-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "b407bc14f83ad3e34406d558a545d0901914292e952824c536987b2ea9442914"
     end
   end
 
